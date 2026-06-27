@@ -28,3 +28,6 @@
 - Counting even and odd numbers
 - Reversing numbers using arithmetic
 - Printing multiplication tables
+
+- ## Status
+✅ Completed
