@@ -29,5 +29,5 @@
 - Reversing numbers using arithmetic
 - Printing multiplication tables
 
-- ## Status
+## Status
 ✅ Completed
