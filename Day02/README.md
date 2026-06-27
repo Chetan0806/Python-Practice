@@ -1,18 +1,21 @@
 # Day 02 - Nested Loops
 
-## Programs Completed
-
-1. Increasing Star Pattern
-
-## Concepts Learned
-
-- Nested `for` loops
+## Concepts
+- Nested for loops
 - Pattern printing
-- Using `end=""`
-- Using `print()` to move to the next line
+- range(start, stop, step)
+- print(end="")
 
-## Skills Practiced
+## Programs
+- StarPattern1
+- StarPattern2
+- PyramidPattern1
+- PyramidPattern2
+- DiamondPattern
+- NumberPattern1
+- NumberPattern2
+- StarNumber1
+- StarNumber2
 
-- Understanding outer and inner loops
-- Printing rows and columns
-- Building simple patterns
+## Status
+✅ Completed
